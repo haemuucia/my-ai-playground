@@ -41,8 +41,8 @@ This project can be applied to various real world problems, such as fruit ripene
 4. Display the original image, HSV result, and mask.
 
 **Screenshot:**  
-![Color Detection Screenshot1](screenshots/colordetection1.png)  
-![Color Detection Screenshot2](screenshots/colordetection2.png)  
+![](screenshots/colordetection1.png)  
+![](screenshots/colordetection2.png)  
 
 ---
 
@@ -68,9 +68,9 @@ This project can be applied to real-world problems such as mobile document scann
 6. Display the results.
 
 **Screenshot:**  
-![Inputted Document Screenshot](screenshots/input.png)  
-![Result Document Screenshot](screenshots/result.png)  
-![Output Document Screenshot](screenshots/output.png)  
+![](screenshots/input.png)  
+![](screenshots/result.png)  
+![](screenshots/output.png)  
 
 ---
 
@@ -96,7 +96,7 @@ This project can be applied to various real-world problems such as security surv
 6. Display the output in a live video window until the user presses 1.
 
 **Screenshot:**  
-![Face Recognition Screenshot](screenshots/facerecognition.png)  
+![](screenshots/facerecognition.png)  
 
 ---
 
@@ -124,8 +124,8 @@ This can be applied in real-world scenarios such as automated toll collection, p
 8. Save plate images when the user presses 1.
 
 **Screenshot:**  
-![Number Plate Screenshot1](screenshots/nplate1.png)  
-![Number Plate Screenshot2](screenshots/nplate2.png)  
+![](screenshots/nplate1.png)  
+![](screenshots/nplate2.png)  
 
 ---
 

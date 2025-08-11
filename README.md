@@ -106,6 +106,6 @@ This project can be applied to various real world problems, such as fruit ripene
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/ai-playground.git
-   cd ai-playground
+   git clone https://github.com/haemuucia/my-ai-playground.git
+   cd my-ai-playground
    playgroundvenv\Scripts\activate
